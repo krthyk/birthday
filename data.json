@@ -1,8 +1,8 @@
 {
   "page": {
-    "title": "Happy Birthday Wishes",
+    "title": "Happy Birthday",
     "h1": "HAPPY BIRTHDAY! 🎉",
-    "message": "Wishing you a year of laughter, adventures, and great moments! I hope your life keeps running like the best code: no bugs, no crashes, just seamless updates to your happiness.",
+    "message": "Happy Birthday! Another year older, another year of debugging life's code. I hope your day is as flawless as your most bug-free program (which, let’s be honest, doesn’t happen often). May you continue to optimize your happiness and avoid any stack overflows in the process. Here's to achieving more in one year than the total lines of code written in your lifetime! Keep compiling those memories, and may your syntax always be correct, even if your social life isn’t as optimized. Enjoy your day, without any runtime errors!",
     "carouselImages": [
       {
         "src": "https://i.imgur.com/YHMGg3X.jpeg",
@@ -32,8 +32,8 @@
     "credits": {
       "text": "Made with ❤️ by",
       "link": {
-        "text": "Artist",
-        "url": "#"
+        "text": "karthik",
+        "url": "instagram.com/mr.kezual"
       }
     }
   }
