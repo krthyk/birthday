@@ -1,0 +1,40 @@
+{
+  "page": {
+    "title": "Happy Birthday Wishes",
+    "h1": "HAPPY BIRTHDAY! 🎉",
+    "message": "Wishing you a year of laughter, adventures, and great moments! I hope your life keeps running like the best code: no bugs, no crashes, just seamless updates to your happiness.",
+    "carouselImages": [
+      {
+        "src": "https://i.imgur.com/YHMGg3X.jpeg",
+        "alt": "Birthday Image 1"
+      },
+      {
+        "src": "https://favim.com/pd/p/orig/2018/08/15/i-bp-kim-jisoo-blackpink-jisoo-Favim.com-6134790.jpg",
+        "alt": "Birthday Image 2"
+      },
+      {
+        "src": "https://favim.com/pd/s11/orig/7/747/7478/74782/jisoo-scan-black-pink-scans-jisoo-Favim.com-7478293.jpg",
+        "alt": "Birthday Image 3"
+      },
+      {
+        "src": "https://images6.fanpop.com/image/photos/41400000/Jisoo-jisoo-blackpink-41476977-720-703.jpg",
+        "alt": "Birthday Image 4"
+      },
+      {
+        "src": "https://images6.fanpop.com/image/photos/41400000/Jisoo-jisoo-blackpink-41476974-720-710.jpg",
+        "alt": "Birthday Image 5"
+      }
+    ],
+    "audio": {
+      "src": "file:///C:/Users/kay/Downloads/hbd.mp3",
+      "type": "audio/mp3"
+    },
+    "credits": {
+      "text": "Made with ❤️ by",
+      "link": {
+        "text": "Artist",
+        "url": "#"
+      }
+    }
+  }
+}
